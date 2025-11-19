@@ -2,153 +2,159 @@
 
 ## Latest drops
 
+2025-11-19
+- Madden NFL 26
+  - Kurt Benkert Show (ends today)
+  - In The Huddle (ends today)
+
 2025-11-18
+- Albion Online
+  - Abyssal Depths 21 \- \#2/7 (ends today)
+- Assassin's Creed Mirage
+  - AC Mirage DLC release (ends in 12 days)
+- Black Desert
+  - 2025 BDO Drops \(Nov\. 18\) (ends today)
 - Delta Force
-  - Ahsarah \- Operations (ends in 20 days)
-  - Ahsarah \- Warfare (ends in 20 days)
+  - Ahsarah \- Operations (ends in 19 days)
+  - Ahsarah \- Warfare (ends in 19 days)
+- EVE Online
+  - Venture Refined Resourcer (ends in 2 days)
+- Escape from Tarkov
+  - Release Drops day 4 (ends today)
+- Ghosts of Tabor
+  - Op: SkinSoSoft Day 5 (ends today)
+- Halo Infinite
+  - Monthly Clip Hunt\-NOV18 (ends today)
+- LOCKDOWN Protocol
+  - LOCKDOWN Protocol Launch (ends in 6 days)
+- Out of the Park Baseball 26
+  - Affiliate11/18/25 (ends today)
+- Phasmophobia
+  - Sweet Tooth \- Standard (ends in 6 days)
+- Rise Online
+  - ROW Drop 287 (ends today)
+- Splinterlands
+  - November Week 3 (ends in 6 days)
+- Wakfu
+  - Neo\-Twitch Drops \[D10\] (ends today)
 
 2025-11-17
-- Albion Online
-  - Abyssal Depths 21 \- \#1/7 (ends today)
-- Black Desert
-  - 2025 BDO Drops \(Nov\. 17\) (ends today)
-- Escape from Tarkov
-  - Release Drops day 3 (ends today)
-- Ghosts of Tabor
-  - Op: SkinSoSoft Day 4 (ends today)
 - MARVEL Strike Force
-  - Immortal Weapons \- Week 3 (ends in 6 days)
-- MLB The Show 25
-  - Drops for All Week (ends today)
+  - Immortal Weapons \- Week 3 (ends in 5 days)
 - Mobile Dungeon
-  - MD Drops Set 3 (ends in 5 days)
+  - MD Drops Set 3 (ends in 4 days)
 - Out of the Park Baseball 26
-  - Affiliate11/17/25 (ends today)
-  - Official11/17\-23/25 (ends in 6 days)
-- Rise Online
-  - ROW Drop 286 (ends today)
+  - Official11/17\-23/25 (ends in 5 days)
 - Shakes and Fidget
-  - S&F Drops (ends in 2 days)
-- Wakfu
-  - Neo\-Twitch Drops \[D9\] (ends today)
+  - S&F Drops (ends tomorrow)
 - World of Tanks
-  - Road to WCI Drops \#1 (ends tomorrow)
+  - Road to WCI Drops \#1 (ends today)
 
 2025-11-16
 - Call of Duty: Black Ops 7
-  - Monster x COD B07 (ends in 6 days)
+  - Monster x COD B07 (ends in 5 days)
 - Kakele Online \- MMORPG
-  - Kakele Online\-November 2 (ends in 12 days)
+  - Kakele Online\-November 2 (ends in 11 days)
 
 2025-11-15
 - Arena Breakout: Infinite
-  - Red Drops Fest ABIS (ends in 24 days)
+  - Red Drops Fest ABIS (ends in 23 days)
 - SMITE 2
-  - Nov Drops Week 3 (ends in 4 days)
+  - Nov Drops Week 3 (ends in 3 days)
 
 2025-11-14
 - Call of Duty: Black Ops 7
-  - Black Ops 7 Global Launch (ends in 13 days)
+  - Black Ops 7 Global Launch (ends in 12 days)
 - King of Meat
-  - Lucha Libre (ends in 6 days)
+  - Lucha Libre (ends in 5 days)
 - Marvel Rivals
-  - Season 5 Twitch Drops (ends in 24 days)
+  - Season 5 Twitch Drops (ends in 23 days)
 - Mir Korabley
-  - Обновление 25\.11: Часть 3 (ends in 3 days)
-  - Lestakorabli \- 25\.11 \#3 (ends in 3 days)
+  - Обновление 25\.11: Часть 3 (ends in 2 days)
+  - Lestakorabli \- 25\.11 \#3 (ends in 2 days)
 - NARAKA: BLADEPOINT
-  - S18 Weekly 11\.14 (ends in 3 days)
+  - S18 Weekly 11\.14 (ends in 2 days)
 - Pokémon Trading Card Game Live
-  - PTCGL Phantasmal Flames (ends in 24 days)
+  - PTCGL Phantasmal Flames (ends in 23 days)
 - Ravendawn
-  - November 3 (ends in 3 days)
+  - November 3 (ends in 2 days)
 - Sea of Thieves
-  - Season 17 Drop 4 (ends in 3 days)
+  - Season 17 Drop 4 (ends in 2 days)
 - Shakes and Fidget
-  - S&F Droplets (ends in 2 days)
+  - S&F Droplets (ends tomorrow)
 - UFL
-  - November \#2 (ends tomorrow)
+  - November \#2 (ends today)
 
 2025-11-13
 - Call of Duty: Black Ops 7
-  - Black Ops 7 Watch Rewards (ends in 13 days)
+  - Black Ops 7 Watch Rewards (ends in 12 days)
 - Modern Warships
-  - MW: Age of Fleets (ends in 4 days)
+  - MW: Age of Fleets (ends in 3 days)
 - THE FINALS
-  - BLAST OFF SOUR CORE (ends in 9 days)
+  - BLAST OFF SOUR CORE (ends in 8 days)
 - World of Warships
-  - Update 14\.10 Drop: Week 3 (ends in 2 days)
+  - Update 14\.10 Drop: Week 3 (ends tomorrow)
 
 2025-11-12
 - Lineage II
-  - Lineage 2 Crow Drops EU (ends tomorrow)
-  - Lineage 2 Samurai Drops (ends tomorrow)
+  - Lineage 2 Crow Drops EU (ends today)
+  - Lineage 2 Samurai Drops (ends today)
 - RavenQuest
-  - RavenQuest \- November 2 (ends tomorrow)
-
-2025-11-11
-- Destiny 2
-  - Rally and CTA (ends today)
-- Overwatch 2
-  - Season 19 Midseason  (ends in 8 days)
-- Phasmophobia
-  - Sweet Tooth \- Animated (ends today)
-- Splinterlands
-  - November Week 2 (ends today)
-- World of Tanks Console
-  - Dark Realm Week 6 (ends today)
-- World of Warcraft
-  - Ensemble Violet Sweatsuit (ends in 14 days)
+  - RavenQuest \- November 2 (ends today)
 
 ## All drops
 
 7 Days Blood Moons
-- 7 Days Blood Moons Launch (ends in 12 days)
+- 7 Days Blood Moons Launch (ends in 11 days)
   - Watcher Set (0 minutes watched)
 
 Albion Online
-- Abyssal Depths 21 \- \#1/7 (ends today)
+- Abyssal Depths 21 \- \#2/7 (ends today)
   - Abyssal Depths Chest (180 minutes watched)
 
 Anno 117: Pax Romana
-- Anno 117 Launch DE (ends in 6 days)
+- Anno 117 Launch DE (ends in 5 days)
   - Logo (120 minutes watched)
   - Falg (180 minutes watched)
-- Anno 117 Launch (ends in 6 days)
+- Anno 117 Launch (ends in 5 days)
   - Classis Nova Alba (120 minutes watched)
   - Legion Trading Post (240 minutes watched)
-- Anno 117 Launch US (ends in 6 days)
+- Anno 117 Launch US (ends in 5 days)
   - Logo (120 minutes watched)
   - flag (180 minutes watched)
 
 Arena Breakout: Infinite
-- Red Drops Fest ABIS (ends in 24 days)
+- Red Drops Fest ABIS (ends in 23 days)
   - All\-Terrain M110 Reloaded (120 minutes watched)
 
+Assassin's Creed Mirage
+- AC Mirage DLC release (ends in 12 days)
+  - Sandstorm Emblem (20 minutes watched)
+
 Black Desert
-- 2025 BDO Drops \(Nov\. 17\) (ends today)
-  - 2 Hour \(Nov\. 17\) (120 minutes watched)
+- 2025 BDO Drops \(Nov\. 18\) (ends today)
+  - 2 Hour \(Nov\. 18\) (120 minutes watched)
 
 Brawlhalla
-- Brawlhalla 10th Anniv (ends in 15 days)
+- Brawlhalla 10th Anniv (ends in 14 days)
   - Sentinedoodle (30 minutes watched)
   - Craig (60 minutes watched)
   - Golf Clap (120 minutes watched)
   - High Impact Sentinel (240 minutes watched)
 
 Call of Duty: Black Ops 7
-- Monster x COD B07 (ends in 6 days)
+- Monster x COD B07 (ends in 5 days)
   - Calling Card (30 minutes watched)
-- Black Ops 7 Watch Rewards (ends in 13 days)
+- Black Ops 7 Watch Rewards (ends in 12 days)
   - Emblem (180 minutes watched)
   - Blueprint (240 minutes watched)
   - Charm (60 minutes watched)
   - Calling Card (120 minutes watched)
-- Black Ops 7 Global Launch (ends in 13 days)
+- Black Ops 7 Global Launch (ends in 12 days)
   - Black Ops 7 Global Launch Badge Reward Group (0 minutes watched)
 
 Castle of Blackwater
-- The Blackwater Harvest (ends in 16 days)
+- The Blackwater Harvest (ends in 15 days)
   - 250 Gold (300 minutes watched)
   - Crusader Armor (420 minutes watched)
   - 5 Glyphs (480 minutes watched)
@@ -159,7 +165,7 @@ Castle of Blackwater
   - 5 Glyphs (240 minutes watched)
 
 Coin Pusher Live
-- Fall Drops (ends in 12 days)
+- Fall Drops (ends in 11 days)
   - Pumpkin Pie Wrap (90 minutes watched)
   - 2,000 Coins (120 minutes watched)
   - Pumpkin Wrap (150 minutes watched)
@@ -170,32 +176,27 @@ Coin Pusher Live
   - Pumpkin Cupcake Wrap (60 minutes watched)
 
 Delta Force
-- Ahsarah \- Operations (ends in 20 days)
+- Ahsarah \- Operations (ends in 19 days)
   - Elite Gear Ticket (30 minutes watched)
   - Spray \- Happy Birthday (60 minutes watched)
   - Ahsarah Season C\.Pack (90 minutes watched)
   - M249 \- Urban Artwork (120 minutes watched)
   - Standard Gear Ticket\+Armament Voucher X3 (15 minutes watched)
-- Ahsarah \- Warfare (ends in 20 days)
+- Ahsarah \- Warfare (ends in 19 days)
   - Advanced Armament S\.Pack (60 minutes watched)
   - M1A4 Tank \- Snow Camo (90 minutes watched)
   - Warfare 2x EXP Card\+Premium Weapon EXP Token (15 minutes watched)
   - ASV \- Aerospace (120 minutes watched)
   - GTQ35 Tank \- Snow Camo (30 minutes watched)
 
-Destiny 2
-- Rally and CTA (ends today)
-  - Rallying Cry (30 minutes watched)
-  - Baroque Ghost (0 minutes watched)
-
 Don't Starve Together
-- Pyric Core (ends in 6 days)
+- Pyric Core (ends in 5 days)
   - Profile Icon (30 minutes watched)
   - Portrait Frame (90 minutes watched)
   - Belonging (180 minutes watched)
 
 Duet Night Abyss
-- v1\.0 Duet Night Abyss (ends in 6 days)
+- v1\.0 Duet Night Abyss (ends in 5 days)
   - Phoxene\*80 (120 minutes watched)
   - Coin\*10000 (15 minutes watched)
   - Combat Melody Ⅱ\*5 (30 minutes watched)
@@ -203,19 +204,19 @@ Duet Night Abyss
   - Ammo Supply Chest Ⅱ\*3 (90 minutes watched)
 
 Dune: Awakening
-- New Drops Out Now\! (ends tomorrow)
+- New Drops Out Now\! (ends today)
   - Triangle walls (60 minutes watched)
   - Half Wall & Half Triangles (120 minutes watched)
   - Hatch Frame & Door (180 minutes watched)
 
 Dungeon Stalkers
-- Dungeon Stalkers Drops S1 (ends in 8 days)
+- Dungeon Stalkers Drops S1 (ends in 7 days)
   - 15분 보상 (15 minutes watched)
   - 30분 보상 (30 minutes watched)
   - 60분 보상 (60 minutes watched)
 
 Enshrouded
-- Siren Seeker's Drops (ends in 6 days)
+- Siren Seeker's Drops (ends in 5 days)
   - Siren Seeker Sandals & Pants (60 minutes watched)
   - Siren Seeker Gloves (90 minutes watched)
   - Siren Seeker Chest (120 minutes watched)
@@ -223,7 +224,7 @@ Enshrouded
   - Siren Seeker Headband (240 minutes watched)
 
 Escape from Tarkov
-- Release Drops day 3 (ends today)
+- Release Drops day 4 (ends today)
   - Drop 1 (60 minutes watched)
   - Drop 2 (120 minutes watched)
   - Drop 3 (180 minutes watched)
@@ -234,34 +235,42 @@ Escape from Tarkov
   - Drop 8 (480 minutes watched)
   - Drop 9 (540 minutes watched)
 
+EVE Online
+- Venture Refined Resourcer (ends in 2 days)
+  - Venture Refined Resourcer (240 minutes watched)
+
 Evilmun Family
-- Evilmun Family 5 years\! (ends in 13 days)
+- Evilmun Family 5 years\! (ends in 12 days)
   - За подписку (0 minutes watched)
   - За 1 час просмотра (60 minutes watched)
 
 Fishing Planet
-- Angler’s Journey Drops (ends in 2 days)
+- Angler’s Journey Drops (ends tomorrow)
   - Florida Fisher Box (60 minutes watched)
   - Dnipro Angler Box (120 minutes watched)
   - Willow Master Box (240 minutes watched)
 
 Ghosts of Tabor
-- Op: SkinSoSoft Day 4 (ends today)
-  - NRS (15 minutes watched)
-  - Delta Container (30 minutes watched)
-  - Arm Patch \#3 (60 minutes watched)
-  - GPU (120 minutes watched)
-  - Purple Keycard (180 minutes watched)
+- Op: SkinSoSoft Day 5 (ends today)
+  - Random Armor (15 minutes watched)
+  - Random Figurine (30 minutes watched)
+  - Wolverine Supressor (60 minutes watched)
+  - Eotech Combo (120 minutes watched)
+  - RK\-6 Grip (180 minutes watched)
+
+Halo Infinite
+- Monthly Clip Hunt\-NOV18 (ends today)
+  - Tasteful Sensation Coating (120 minutes watched)
 
 Honkai Impact 3rd
-- Special Drops (ends in 2 days)
+- Special Drops (ends tomorrow)
   - 1\. Stamina Potion\*1 (15 minutes watched)
   - 2\. Phase Shifter\*1 (30 minutes watched)
   - 3\. Asterite\*1500 (60 minutes watched)
   - 4\. Crystal\*120 (180 minutes watched)
 
 Honkai: Star Rail
-- V3\.7 Honkai: Star Rail (ends in 14 days)
+- V3\.7 Honkai: Star Rail (ends in 13 days)
   - Condensed Aether\*5 (45 minutes watched)
   - Traveler's Guide\*3 (60 minutes watched)
   - Stellar Jade\*30 (120 minutes watched)
@@ -269,26 +278,19 @@ Honkai: Star Rail
   - Lost Gold Fragment\*4 (30 minutes watched)
 
 I'm Sleep\!
-- i'm Sleep\! Season 0 (ends in 12 days)
+- i'm Sleep\! Season 0 (ends in 11 days)
   - drop 1 (60 minutes watched)
 
 Infinity Nikki
-- V1\.11 Infinity Nikki (ends in 6 days)
+- V1\.11 Infinity Nikki (ends in 5 days)
   - Diamond ×10 (15 minutes watched)
   - Thread of Purity ×100 (60 minutes watched)
   - Bling ×20,000 (45 minutes watched)
   - Diamond ×20 (30 minutes watched)
   - Shining Particle ×100 (90 minutes watched)
 
-Jurassic World Evolution 3
-- JWE3 Launch Drops (ends today)
-  - Ranger Helicopter Prehistoric Purple (30 minutes watched)
-  - Ranger Truck Prehistoric Purple (60 minutes watched)
-  - Tour Vehicle Prehistoric Purple (90 minutes watched)
-  - ATV Prehistoric Purple (120 minutes watched)
-
 Kakele Online \- MMORPG
-- Kakele Online\-November 2 (ends in 12 days)
+- Kakele Online\-November 2 (ends in 11 days)
   - Traveler Pack (120 minutes watched)
   - Life Supplies (240 minutes watched)
   - Precious Metals (360 minutes watched)
@@ -297,20 +299,20 @@ Kakele Online \- MMORPG
   - The Ultimate Drop (900 minutes watched)
 
 King of Meat
-- Lucha Libre (ends in 6 days)
+- Lucha Libre (ends in 5 days)
   - Luchador (120 minutes watched)
   - Luchadora (240 minutes watched)
 
 Kirka\.io
-- Spice (ends in 9 days)
+- Spice (ends in 8 days)
   - Spice (900 minutes watched)
 
 League of Legends
-- Worlds \- Sub Drop (ends in 16 days)
+- Worlds \- Sub Drop (ends in 15 days)
   - "FABULOUS\!" Emote (0 minutes watched)
 
 Legend of YMIR
-- Legend of YMIR\_ALL (ends in 12 days)
+- Legend of YMIR\_ALL (ends in 11 days)
   - 1 (15 minutes watched)
   - 2 (30 minutes watched)
   - 3 (60 minutes watched)
@@ -321,7 +323,7 @@ Legend of YMIR
   - 8 (660 minutes watched)
   - 9 (780 minutes watched)
   - 10 (900 minutes watched)
-- Legend of YMIR\_SSS (ends in 12 days)
+- Legend of YMIR\_SSS (ends in 11 days)
   - 1 (15 minutes watched)
   - 2 (30 minutes watched)
   - 3 (60 minutes watched)
@@ -334,60 +336,66 @@ Legend of YMIR
   - 10 (900 minutes watched)
 
 Lineage II
-- Lineage 2 Crow Drops EU (ends tomorrow)
+- Lineage 2 Crow Drops EU (ends today)
   - Lineage 2 Crow EU (240 minutes watched)
-- Lineage 2 Samurai Drops (ends tomorrow)
+- Lineage 2 Samurai Drops (ends today)
   - Lineage 2 Samurai Crow Drops (600 minutes watched)
 
+LOCKDOWN Protocol
+- LOCKDOWN Protocol Launch (ends in 6 days)
+  - Watcher Charm (60 minutes watched)
+
+Madden NFL 26
+- Kurt Benkert Show (ends today)
+  - Benkert's Dimes Playbook (15 minutes watched)
+  - Madden Twitch Pack (30 minutes watched)
+  - Madden Twitch Pack (60 minutes watched)
+- In The Huddle (ends today)
+  - Twitch Pack (30 minutes watched)
+  - Twitch Pack (60 minutes watched)
+  - Twitch Pack (120 minutes watched)
+
 Marvel Rivals
-- Ignite Grand Finals I (ends in 5 days)
+- Ignite Grand Finals I (ends in 4 days)
   - 「Grand Finals Ignition \(2025\)」Spray (30 minutes watched)
   - 「IGNITE Grand Finals Day \(2025\)」Nameplate (90 minutes watched)
-- Ignite Grand Finals II (ends in 9 days)
+- Ignite Grand Finals II (ends in 8 days)
   - 「IGNITE Atlanta \(2025\)」Spray (30 minutes watched)
   - 「IGNITE \(2025\)」Mood (90 minutes watched)
-- Ignite Grand Fianls III (ends in 10 days)
+- Ignite Grand Fianls III (ends in 9 days)
   - Loki「IGNITE Loki \(2025\)」Nameplate (30 minutes watched)
   - 「IGNITE25」Mood (90 minutes watched)
-- Ignite Grand Fianls IV (ends in 11 days)
+- Ignite Grand Fianls IV (ends in 10 days)
   - 「IGNITE Grand Finals Night\(2025\)」Nameplate (30 minutes watched)
   - Loki「Absolute IGNITE\! Emotes (60 minutes watched)
   - 「IGNITE \(2025\)」Emoji (120 minutes watched)
   - Loki「IGNITE Loki \(2025\)」Costume (240 minutes watched)
-- Season 5 Twitch Drops (ends in 24 days)
+- Season 5 Twitch Drops (ends in 23 days)
   - Phoenix「Will of Galacta」Costume (240 minutes watched)
   - Phoenix「Will of Galacta」Spray (30 minutes watched)
   - Phoenix「Will of Galacta」Nameplate (60 minutes watched)
   - Phoenix「Our Worlds」Emote (120 minutes watched)
 
 MARVEL Strike Force
-- Immortal Weapons \- Week 3 (ends in 6 days)
+- Immortal Weapons \- Week 3 (ends in 5 days)
   - 1 (60 minutes watched)
   - 2 (120 minutes watched)
 
 Mir Korabley
-- Обновление 25\.11: Часть 3 (ends in 3 days)
+- Обновление 25\.11: Часть 3 (ends in 2 days)
   - Награды в эфире 25\.11 \#3 (240 minutes watched)
-- Lestakorabli \- 25\.11 \#3 (ends in 3 days)
+- Lestakorabli \- 25\.11 \#3 (ends in 2 days)
   - «Малый набор» — Lestakorabli (60 minutes watched)
 
-MLB The Show 25
-- Drops for All Week (ends today)
-  - Twitch Pack (30 minutes watched)
-  - Twitch Pack (90 minutes watched)
-  - Twitch Pack (150 minutes watched)
-  - Twitch Pack (210 minutes watched)
-  - Twitch Pack (270 minutes watched)
-
 Mobile Dungeon
-- MD Drops Set 3 (ends in 5 days)
+- MD Drops Set 3 (ends in 4 days)
   - 4x Arena Ticket (30 minutes watched)
   - 25x Crystal (60 minutes watched)
   - 24x Thirst for Adventure (90 minutes watched)
   - 6x Dungeon Key (120 minutes watched)
 
 Modern Warships
-- MW: Age of Fleets (ends in 4 days)
+- MW: Age of Fleets (ends in 3 days)
   - Camo GlaringSplash (300 minutes watched)
   - 1 Day of Premium (60 minutes watched)
   - Advanced Consumables (120 minutes watched)
@@ -395,9 +403,9 @@ Modern Warships
   - 15 Authorization Keys (240 minutes watched)
 
 NARAKA: BLADEPOINT
-- S18 Weekly 11\.14 (ends in 3 days)
+- S18 Weekly 11\.14 (ends in 2 days)
   - Twitch Drop Gift (60 minutes watched)
-- S18 PARTNER I 8\.7 (ends in 16 days)
+- S18 PARTNER I 8\.7 (ends in 15 days)
   - Outfit Trial Choice Gift (360 minutes watched)
   - Xunhuan Li·Flying Knives (480 minutes watched)
   - Splendor Treasure Choice Gift (600 minutes watched)
@@ -405,20 +413,20 @@ NARAKA: BLADEPOINT
   - Spectral Silk\*500 (240 minutes watched)
 
 Once Human
-- Palworld Collab Drops (ends in 7 days)
+- Palworld Collab Drops (ends in 6 days)
   - BLIND BOX: PLUSH TALES (60 minutes watched)
   - WEAPON CHARM: SHARKY (120 minutes watched)
   - DECAL: FETCH\-A\-LOT BUNNY (240 minutes watched)
   - DEVIATION: SHATTERED MAIDEN \- WANDERING WITCH (360 minutes watched)
 
 Out of the Park Baseball 26
-- Affiliate11/17/25 (ends today)
+- Affiliate11/18/25 (ends today)
   - 1 (15 minutes watched)
   - 2 (30 minutes watched)
   - 3 (45 minutes watched)
   - 4 (60 minutes watched)
   - 5 (90 minutes watched)
-- Official11/17\-23/25 (ends in 6 days)
+- Official11/17\-23/25 (ends in 5 days)
   - 1 (90 minutes watched)
   - 2 (180 minutes watched)
   - 3 (270 minutes watched)
@@ -428,32 +436,32 @@ Out of the Park Baseball 26
   - 7 (630 minutes watched)
 
 Overwatch 2
-- Season 19 Midseason  (ends in 8 days)
+- Season 19 Midseason  (ends in 7 days)
   - Cat/Ghost spray (90 minutes watched)
   - Cat/Ghost/Pumpkin Spray (180 minutes watched)
   - Lootbox (300 minutes watched)
   - Epic Lootbox (540 minutes watched)
 
 Palia
-- Home for the Harvest (ends in 7 days)
+- Home for the Harvest (ends in 6 days)
   - Tier One (60 minutes watched)
   - Tier Two (180 minutes watched)
   - Tier Three (360 minutes watched)
 
 Phasmophobia
-- Sweet Tooth \- Animated (ends today)
-  - Sweet Tooth \- Animated (120 minutes watched)
+- Sweet Tooth \- Standard (ends in 6 days)
+  - Sweet Tooth \- Standard (120 minutes watched)
 
 Pokémon Trading Card Game Live
-- PTCGL Phantasmal Flames (ends in 24 days)
+- PTCGL Phantasmal Flames (ends in 23 days)
   - Phantasmal Flames Collector's Crate (30 minutes watched)
 
 Pokémon Trading Card Game Pocket
-- Pocket 1st Anniv\. Drops (ends in 8 days)
+- Pocket 1st Anniv\. Drops (ends in 7 days)
   - Pokémon TCG Pocket 1st Anniv\. Drops (20 minutes watched)
 
 Ravendawn
-- November 3 (ends in 3 days)
+- November 3 (ends in 2 days)
   - 2x RavenPacks (60 minutes watched)
   - 2x RavenPacks (180 minutes watched)
   - 2x RavenPacks (360 minutes watched)
@@ -462,17 +470,17 @@ Ravendawn
   - 100x Ghostly Infusion (900 minutes watched)
 
 RavenQuest
-- RavenQuest \- November 2 (ends tomorrow)
+- RavenQuest \- November 2 (ends today)
   - 2x Treasure Below RavenPacks (300 minutes watched)
   - RQ \- November Pack 1 (600 minutes watched)
   - RQ \- November Pack 2 (900 minutes watched)
 
 Rise Online
-- ROW Drop 286 (ends today)
-  - ROW Drop 286 (240 minutes watched)
+- ROW Drop 287 (ends today)
+  - ROW Drop 287 (240 minutes watched)
 
 Sea of Thieves
-- Season 17 Drop 4 (ends in 3 days)
+- Season 17 Drop 4 (ends in 2 days)
   - 75k Gold (30 minutes watched)
   - \+1 Renown (60 minutes watched)
   - Voyage of Luck (90 minutes watched)
@@ -483,7 +491,7 @@ Sea of Thieves
   - Thunderous Fury Sails (360 minutes watched)
 
 Shakes and Fidget
-- S&F Drops (ends in 2 days)
+- S&F Drops (ends tomorrow)
   - Smith Package (120 minutes watched)
   - Time Jump Package (150 minutes watched)
   - Gem Package (180 minutes watched)
@@ -491,7 +499,7 @@ Shakes and Fidget
   - Potion Package (30 minutes watched)
   - Soul Taker Package (60 minutes watched)
   - Fortification Package (90 minutes watched)
-- S&F Droplets (ends in 2 days)
+- S&F Droplets (ends tomorrow)
   - Allrounder Package (180 minutes watched)
   - Gilded Package (15 minutes watched)
   - Construction Package (30 minutes watched)
@@ -501,7 +509,7 @@ Shakes and Fidget
   - Smith Package (150 minutes watched)
 
 SMITE 2
-- Nov Drops Week 3 (ends in 4 days)
+- Nov Drops Week 3 (ends in 3 days)
   - Wandering Market Coins (120 minutes watched)
   - Wandering Market Coins (240 minutes watched)
   - Wandering Market Coins (360 minutes watched)
@@ -511,14 +519,14 @@ SMITE 2
   - Wandering Market Coins (840 minutes watched)
 
 Snowbreak: Containment Zone
-- Snowbreak 3\.3 Drops (ends in 16 days)
+- Snowbreak 3\.3 Drops (ends in 15 days)
   - Good Combat Record\*8 (15 minutes watched)
   - Exquisite Augmentation Kit\*8 (30 minutes watched)
   - Advanced Certification\*8 (45 minutes watched)
   - DigiCash\*50 (60 minutes watched)
 
 Splinterlands
-- November Week 2 (ends today)
+- November Week 3 (ends in 6 days)
   - 1000 Glint (180 minutes watched)
   - 1000 Glint (360 minutes watched)
   - 1000 Glint (540 minutes watched)
@@ -526,50 +534,40 @@ Splinterlands
   - 1000 Glint (900 minutes watched)
 
 The Crew: Motorfest
-- The Crew Motorfest S8 (ends tomorrow)
+- The Crew Motorfest S8 (ends today)
   - Yohmoy White Neon Tire (60 minutes watched)
   - Tropical Garden Hoodie (120 minutes watched)
   - BMW Z4 SDRIVE35IS (180 minutes watched)
 
 THE FINALS
-- BLAST OFF SOUR CORE (ends in 9 days)
+- BLAST OFF SOUR CORE (ends in 8 days)
   - OSPUZE Athletic Hat (60 minutes watched)
   - OSPUZE Kangaroo Hoodie (120 minutes watched)
   - OSPUZE Shocktopuze (240 minutes watched)
 
 The First Descendant
-- Season3 \- 2nd Update (ends in 16 days)
+- Season3 \- 2nd Update (ends in 15 days)
   - 'Twitch Color' Paints X2 (30 minutes watched)
   - 'Twitch Color' Bike Paints X2  (60 minutes watched)
   - Yujin Head Skin (90 minutes watched)
 
-The Outlast Trials
-- Invasion 2025 (ends today)
-  - Murkoff Cadet Pants (120 minutes watched)
-  - Murkoff Cadet ESOP (180 minutes watched)
-  - Murkoff Cadet Peaked Cap (240 minutes watched)
-  - Checkered Murkoff Floor Pattern (300 minutes watched)
-  - Murkoff Cadet Varsity Jacket (360 minutes watched)
-  - Purple Coyle Player Icon (30 minutes watched)
-  - Purple Art Deco Furniture Trim (60 minutes watched)
-
 UFL
-- November \#2 (ends tomorrow)
+- November \#2 (ends today)
   - 2 (120 minutes watched)
   - 3 (180 minutes watched)
   - 4 (240 minutes watched)
   - 1 (60 minutes watched)
 
 Vampire: The Masquerade \- Bloodhunt
-- November Drops (ends in 17 days)
+- November Drops (ends in 16 days)
   - November drops (240 minutes watched)
 
 Wakfu
-- Neo\-Twitch Drops \[D9\] (ends today)
+- Neo\-Twitch Drops \[D10\] (ends today)
   - Neo\-Viewer Box (60 minutes watched)
 
 Warhammer 40,000: Warpforge
-- Space Wolves (ends in 2 days)
+- Space Wolves (ends tomorrow)
   - Booster 1 (20 minutes watched)
   - Booster 2 (60 minutes watched)
   - Booster (90 minutes watched)
@@ -578,7 +576,7 @@ Warhammer 40,000: Warpforge
   - Booster 6 (240 minutes watched)
 
 Where Winds Meet
-- Where Winds Meet Drops (ends in 13 days)
+- Where Winds Meet Drops (ends in 12 days)
   - 30000x Coins, 30x Echo Jade, 1x Internal Art Note Chest (15 minutes watched)
   - 20000x Coins (30 minutes watched)
   - 20x Echo Jade, 15x Oscillating Jade (60 minutes watched)
@@ -586,25 +584,19 @@ Where Winds Meet
   - 1x Resonating Melody (150 minutes watched)
 
 Wolvesville
-- November 2025 (ends in 12 days)
+- November 2025 (ends in 11 days)
   - Twitch mask (60 minutes watched)
 
 World of Tanks
-- Road to WCI Drops \#1 (ends tomorrow)
+- Road to WCI Drops \#1 (ends today)
   - Drop 1 (120 minutes watched)
 
-World of Tanks Console
-- Dark Realm Week 6 (ends today)
-  - Enhanced Rations (60 minutes watched)
-  - 4x Vehicle XP Boosters (120 minutes watched)
-  - Camo Voucher (240 minutes watched)
-
 World of Warcraft
-- Ensemble Violet Sweatsuit (ends in 14 days)
+- Ensemble Violet Sweatsuit (ends in 13 days)
   - Ensemble: Violet Sweatsuit (240 minutes watched)
 
 World of Warships
-- Update 14\.10 Drop: Week 3 (ends in 2 days)
+- Update 14\.10 Drop: Week 3 (ends tomorrow)
   - Update 14\.10 Mission \#3 (90 minutes watched)
   - Twitch Container 14\.10 week \#3 (180 minutes watched)
 
