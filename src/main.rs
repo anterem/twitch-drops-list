@@ -7,12 +7,17 @@ use std::collections::BTreeMap;
 use std::io::{BufWriter, Write};
 use tempfile::NamedTempFile;
 
-const DROPS_API_URL: &str = "https://twitch-drops-api.sunkwi.com/drops";
+const DROPS_API_URL: &str = "https://drops.sunkwi.com/api/twitch/drops";
 const LATEST_WINDOW_DAYS: i64 = 7;
 const FILE_NAME: &str = "DROPS.md";
 
 // Structs for deserialising API response
 // ApiGame contains the name of the game and a list of active drop campaigns
+#[derive(Debug, Deserialize)]
+struct ApiResponse {
+    games: Vec<ApiGame>,
+}
+
 #[derive(Debug, Deserialize)]
 #[serde(rename_all = "camelCase")]
 struct ApiGame {
@@ -146,10 +151,10 @@ fn fetch_game_data() -> Result<Vec<ApiGame>> {
 
     let game_data = reqwest::blocking::get(DROPS_API_URL)
         .context("failed to fetch from api")?
-        .json::<Vec<ApiGame>>()
+        .json::<ApiResponse>()
         .context("failed to parse json response")?;
 
-    Ok(game_data)
+    Ok(game_data.games)
 }
 
 // Escape markdown special characters
